@@ -2,7 +2,7 @@
 
 In order to test this properly, you should download the file and edit the "price" and "cid" values.
 
-<code>
+<pre><code>
 let price = 1.87;
 let cid = [
   ["PENNY", 1.01],
@@ -15,6 +15,6 @@ let cid = [
   ["TWENTY", 60],
   ["ONE HUNDRED", 100]
 ];
-</code>
+</code></pre>
 
 Doing so will let you test all the different outcomes this tool can offer.
