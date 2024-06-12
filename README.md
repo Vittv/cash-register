@@ -1,7 +1,7 @@
 # Cash Register
 
-I did not implement user customization, since the course project did not require so.
-In order to test this properly, you should download the file and edit the "price" and "cid" values.
+<p>I did not implement user customization, since the course project did not require so.</p>
+<p>In order to test this properly, you should download the file and edit the "price" and "cid" values.</p>
 
 <pre><code>let price = 1.87;
 let cid = [
@@ -16,4 +16,4 @@ let cid = [
   ["ONE HUNDRED", 100]
 ];</code></pre>
 
-Doing so will let you test all the different outcomes this tool can offer.
+<p>Doing so will let you test all the different outcomes this tool can offer.</p>
