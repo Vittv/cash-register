@@ -1,5 +1,6 @@
 # Cash Register
 
+I did not implement user customization, since the course project did not require so.
 In order to test this properly, you should download the file and edit the "price" and "cid" values.
 
 <pre><code>let price = 1.87;
